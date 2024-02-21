@@ -1,6 +1,6 @@
 # pagila-hw
 [![](https://github.com/JTan242/pagila-hw/workflows/tests/badge.svg)](https://github.com/JTan242/pagila-hw/actions?query=workflow%3Atests)
-
+ 
 ## Background
 
 [Pagila](https://github.com/devrimgunduz/pagila) is a standard example database for postgresql.
@@ -23,7 +23,7 @@ The following picture illustrates the database's structure:
    $ git submodule init
    $ git submodule update
    ```
-
+ 
 1. Modify the `README.md` file so that the test case image points to your forked repo.
 1. Solve the each of the problems in the `sql` folder.
     1. The folder contains one file for each problem.
